@@ -1,0 +1,9 @@
+{
+    "name": "NSQA",
+    "version": "0.0.1",
+    "description": "Node Sphinx Query Analizer",
+    "main": "app.js",
+    "dependencies": {
+        "argsparser": "*"
+    }
+}
